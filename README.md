@@ -8,5 +8,4 @@ All research shown here uses publicly available information and is intended for 
 
 ## Write-ups
 - OSINT Combine – OSINT 101 CTF  
-  https://medium.com/@rachelku10/osint-combine-osint-101-write-up-b4875fb586e7
-
+  https://medium.com/@rachel10/osint-combine-osint-101-write-up-b4875fb586e7
